@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+Welcome to my Github repo!
+- 🔭 I am currently working on a warehouse automation project using swarm robots
+- 🌱 I’m currently learning electrical engineering with an interest towards robotics and automation
+- 👯 I’m looking to collaborate on anything related to automation and AI
+- 📫 You can reach me at abhishekjay99@gmail.com or hit me up in linkedIn: https://www.linkedin.com/in/abhishek-jayachandran/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love video games!
 <!--
 **abhishekjay/abhishekjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
